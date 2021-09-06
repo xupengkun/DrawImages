@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T07:13:28.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2ADb4qS24vO20gsKr9qV" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T07:22:54.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="2RMcFGAUuJPa4qPJD2jb" version="14.9.6" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="813" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="_5mSTuPxr-ZiKRkBDSY7-1" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="70" width="540" height="440" as="geometry" />
         </mxCell>
-        <object label="Qt v1.0.0" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
+        <object label="Qt-WebPage v1.0.0" status="New" id="_5mSTuPxr-ZiKRkBDSY7-2">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
             <mxGeometry y="28" width="180" height="412" as="geometry" />
           </mxCell>
@@ -27,7 +27,7 @@
             <mxGeometry x="20" y="221" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="Qt v1.2.0" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
+        <object label="Qt-WebPage v1.2.0" status="In progress" id="_5mSTuPxr-ZiKRkBDSY7-6">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
             <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
           </mxCell>
@@ -42,7 +42,7 @@
             <mxGeometry x="20" y="121" width="140" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="Qt v2.0.0" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
+        <object label="Qt-WebPage v2.0.0" status="Completed" id="_5mSTuPxr-ZiKRkBDSY7-9">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" parent="_5mSTuPxr-ZiKRkBDSY7-1" vertex="1">
             <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
           </mxCell>
